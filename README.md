@@ -1,5 +1,6 @@
 # stone-paper-scissor-game-opencv-python-mediapipe
 
+Fun OpenCV project that uses hand tracking module to implement the classic Rock-Paper-Scissor game.
 
 Preffered IDE: Pycharm Community Edition
 
