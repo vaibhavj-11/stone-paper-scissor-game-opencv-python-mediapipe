@@ -8,7 +8,7 @@ Required packages:
 cvzone == 2021.9.15
 mediapipe == 0.9.0.1
 
-#Screenshots
+# Screenshots
 ## Hand tracking module
 ![image](https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe/assets/71918594/821c2de4-39dd-4f37-8d06-c3212fc6581d)
 
